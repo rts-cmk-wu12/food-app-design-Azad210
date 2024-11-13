@@ -1,0 +1,40 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    
+}
+.container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+header img{
+    width: 100%;
+}
+
+.text-below-pic h1{
+    color: black;
+    font-size: 1rem;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.text-below-pic p{
+    color: black;
+    font-size: 1rem;
+    text-align:left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
